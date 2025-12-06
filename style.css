@@ -1,0 +1,40 @@
+body {
+    background: #fafafa;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
+
+button {
+    padding: 10px 15px;
+    background: #ff6f61;
+    color: white;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #e6554b;
+}
+
+#catContainer {
+    margin-top: 25px;
+}
+
+#catImg {
+    width: 350px;
+    border-radius: 12px;
+    margin-bottom: 15px;
+}
+
+#catInfo {
+    background: #fff;
+    padding: 15px;
+    border-radius: 10px;
+    width: 350px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
